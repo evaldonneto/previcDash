@@ -7,7 +7,7 @@ import plotly.express as px
 st.set_page_config(layout="wide", page_title="DADOS PREVIC")
 
 # Exibir logo
-st.image("Aon_Corporation_logo.svg.png", width=150)
+st.image("PrevDash.png", width=150)
 
 st.title("📊 Dashboard de Demonstrações Atuariais - PREVIC")
 st.markdown("---")  # 🔹 Linha separadora para melhorar a organização visual
