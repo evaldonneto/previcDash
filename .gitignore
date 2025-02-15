@@ -1,0 +1,7 @@
+# Ignorar arquivos desnecessários
+__pycache__/
+*.pyc
+*.pyo
+
+# Se quiser ignorar o SQLite após o deploy, adicione depois
+# database/*.db
