@@ -9,16 +9,16 @@ DB_PATH = "database/previc_data.db"
 
 # Lista de arquivos CSV e tabelas correspondentes
 FILES_TABLES = {
-    "2022-GRUPOS_CUSTEIO.csv": "grupos_custeio",
-    "2022-DADOS_GRUPOS_CUSTEIO.csv": "dados_grupos_custeio",
-    "2022-RESULTADO_PLANO.csv": "resultado_plano",
-    "2022-PLANOS_DA.csv": "planos_da",
-    "2022-TOTAL_RESERVAS.csv": "total_reservas",
-    "2022-PROVISOES_A_CONSTITUIR.csv": "provisoes_a_constituir",
-    "2022-FONTES_RECURSOS.csv": "fontes_recursos",
-    "2022-DADOS_DA.csv": "dados_da",
-    "2022-BENEFICIOS.csv": "beneficios",
-    "2022-PARECER_PLANO.csv": "parecer_plano",
+    "2023-GRUPOS_CUSTEIO.csv": "grupos_custeio",
+    "2023-DADOS_GRUPOS_CUSTEIO.csv": "dados_grupos_custeio",
+    "2023-RESULTADO_PLANO.csv": "resultado_plano",
+    "2023-PLANOS_DA.csv": "planos_da",
+    "2023-TOTAL_RESERVAS.csv": "total_reservas",
+    "2023-PROVISOES_A_CONSTITUIR.csv": "provisoes_a_constituir",
+    "2023-FONTES_RECURSOS.csv": "fontes_recursos",
+    "2023-DADOS_DA.csv": "dados_da",
+    "2023-BENEFICIOS.csv": "beneficios",
+    "2023-PARECER_PLANO.csv": "parecer_plano",
 }
 
 def extract_year_from_filename(filename):
